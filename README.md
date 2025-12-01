@@ -17,7 +17,7 @@ They have provided you with access to their database, which contains the followi
 | Column | Data type | Description |
 |--------|-----------|-------------|
 | `order_number` | `VARCHAR` | Unique order number. |
-| `date` | `DATE` | Date of the order, from June to August 2021. |
+| `date` | `DATE` | Date of the order, from June to August 2025. |
 | `warehouse` | `VARCHAR` | The warehouse that the order was made from&mdash; `North`, `Central`, or `West`. |
 | `client_type` | `VARCHAR` | Whether the order was `Retail` or `Wholesale`. |
 | `product_line` | `VARCHAR` | Type of product ordered. |
