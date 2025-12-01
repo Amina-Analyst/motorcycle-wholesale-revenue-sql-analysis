@@ -6,6 +6,7 @@
 This project calculates net revenue for *Wholesale* orders by `product_line`, grouped by month and warehouse. Payment processing fees are applied per `payment` type and stored in `payment_fee`.
 
 **Case:**
+
 You're working for a company that sells motorcycle parts, and they've asked for some help in analyzing their sales data!
 
 They operate three warehouses in the area, selling both retail and wholesale. They offer a variety of parts and accept credit cards, cash, and bank transfer as payment methods. However, each payment type incurs a different fee.
